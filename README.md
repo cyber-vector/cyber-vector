@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/Matrix.gif" width="100%" height="120"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vector-Dev11&label=INTRUSION+ATTEMPTS&color=00FF41&style=for-the-badge&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=cyber-vector&label=INTRUSION+ATTEMPTS&color=00FF41&style=for-the-badge&labelColor=0D1117)
 [![Location](https://img.shields.io/badge/LOCATION-Pakistan-00FF41?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=0D1117)](#)
 [![Status](https://img.shields.io/badge/STATUS-Online-00FF41?style=for-the-badge&logo=statuspage&logoColor=00FF41&labelColor=0D1117)](#)
 
@@ -93,12 +93,12 @@ $ ps aux | grep current_focus
 
 ### 📡 `> ./run_stats.sh --live`
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vector-Dev11&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vector-Dev11&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cyber-vector&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-vector&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vector-Dev11&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-vector&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vector-Dev11&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=c9d1d9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-vector&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=c9d1d9"/>
 
 </div>
 
@@ -110,7 +110,7 @@ $ ./exploit.sh --target contribution_graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vector-Dev11/Vector-Dev11/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/cyber-vector/cyber-vector/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>👆 the snake literally eats your contribution graph, live — see the one-time setup note at the bottom.</sub>
 
@@ -130,11 +130,13 @@ $ ./identity.sh --reveal false
 
 ### 📞 `netstat -an | grep CONNECT`
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://www.instagram.com/cyber_vector1/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://www.instagram.com/c9_vector/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:youremail@example.com)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.com/users/1481740105789214915)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)](https://app.hackthebox.com/profile/yourusername)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/Vector22)
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF41)](https://whatsapp.com/channel/0029VbE03LjBKfhspYZk102W)
-[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=00FF41)](https://linktr.ee/cyber_vector)
+
 <br>
 
 ```ini
@@ -156,7 +158,7 @@ Last login: `today` from `127.0.0.1` — no anomalies detected 🟢
 
 **1. Snake game (eats your contribution graph)**
 
-Create `.github/workflows/snake.yml` in your **Vector-Dev11/Vector-Dev11** repo with:
+Create `.github/workflows/snake.yml` in your **cyber-vector/cyber-vector** repo with:
 
 ```yaml
 name: generate-snake
@@ -187,7 +189,7 @@ jobs:
 
 Push it, run the workflow once manually under the **Actions** tab, and the `output` branch + SVG will appear automatically within a minute or two.
 
-**2. Everything else** (banners, typing SVG, stats cards, streak stats, activity graph) is already wired to your real username `Vector-Dev11` — no further edits needed.
+**2. Everything else** (banners, typing SVG, stats cards, streak stats, activity graph) is already wired to your real username `cyber-vector` — no further edits needed.
 
 **3. Swap placeholders** — replace `youremail@example.com`, the Discord link, and the HTB/THM handles with your real ones.
 
