@@ -131,11 +131,10 @@ $ ./identity.sh --reveal false
 ### 📞 `netstat -an | grep CONNECT`
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://www.instagram.com/cyber_vector1/)
-
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.com/users/1481740105789214915)
-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/Vector22)
-
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF41)](https://whatsapp.com/channel/0029VbE03LjBKfhspYZk102W)
+[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=00FF41)](https://linktr.ee/cyber_vector)
 <br>
 
 ```ini
