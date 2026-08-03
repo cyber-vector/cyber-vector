@@ -19,7 +19,7 @@ $ whoami --verbose
 ```
 
 ```yaml
-alias:       VECTOR
+alias:       CYBER_VECTOR
 role:        Cybersecurity Specialist / SOC Analyst / Blue Team
 location:    Pakistan 🇵🇰
 mission:     "Detect. Triage. Contain. Repeat."
